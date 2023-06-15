@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "aaaa",
+      "avatar": "avatar",
+      "price": 56
+    },
+    {
+      "name": "sản phẩm 2",
+      "avatar": "avata",
+      "price": 34,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "sản pham demo1",
+      "avatar": "avatr",
+      "price": 88
+    }
+  ]
+}
